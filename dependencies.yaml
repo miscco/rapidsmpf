@@ -44,6 +44,7 @@ files:
     includes:
       - cuda_version
       - depends_on_cupy
+      - depends_on_libkvikio
       - depends_on_librapidsmpf
       - depends_on_librmm
       - depends_on_rapidsmpf
